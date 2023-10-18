@@ -1,0 +1,20 @@
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+python-dotenv>=0.5.1
+jupyter
+pandas
+scipy
+sympy
+matplotlib
+tqdm
+SimpleITK
+scikit-image
+
+yapf
+tensorflow==2.7.1 
+tensorflow-addons
+tensorflow_io==0.23.1
